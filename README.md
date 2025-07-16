@@ -27,7 +27,7 @@ Here’s a sample of what I’ve been building 👇
 
 ## 📫 Let’s Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ryanrasmussen)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ryan-rasmussen-77ab01)
 
 
 🧭 *Currently exploring AI-powered analytics, eCommerce use cases, and real-time data processing — and always open to collaboration or consulting.*
